@@ -4,6 +4,8 @@
 
 You can use Interact instead of Whiptail and Dialog. Interact depends only Bash native commands and basic utils.
 
+**WARN:** interact is under development and can be used for testing purposes only. Possible changes soon that will break backward compatibility with the current version of the code. You can wait for the stable version of the library or fork it.
+
 # Usage
 
 Clone [lib/interact.bash](lib/interact.bash) in your project and source it:
